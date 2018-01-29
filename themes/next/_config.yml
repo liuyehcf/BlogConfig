@@ -46,7 +46,7 @@ index_with_subtitle: false
 menu:
   home: /
   categories: /categories/
-  #about: /about/
+  about: /about/
   archives: /archives/
   tags: /tags/
   #sitemap: /sitemap.xml
@@ -440,7 +440,7 @@ busuanzi_count:
 
 
 # Tencent analytics ID
-# tencent_analytics:
+tencent_analytics: 65091439
 
 # Tencent MTA ID
 # tencent_mta:
