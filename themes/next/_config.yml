@@ -47,6 +47,7 @@ menu:
   home: /
   categories: /categories/
   about: /about/
+  explore: /explore/
   archives: /archives/
   tags: /tags/
   #sitemap: /sitemap.xml
